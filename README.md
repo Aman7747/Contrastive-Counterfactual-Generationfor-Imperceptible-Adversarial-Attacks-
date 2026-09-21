@@ -1,4 +1,4 @@
-# CoCoGen: Contrastive Counterfactual Generation for Imperceptible Adversarial Attacks
+timm Contrastive Counterfactual Generation for Imperceptible Adversarial Attacks
 
 [OpenReview]([https://openreview.net/forum?id=dnme31GvOd](https://openreview.net/forum?id=dnme31GvOd&referrer=%5Bthe%20profile%20of%20Aman%20Desai%5D(%2Fprofile%3Fid%3D~Aman_Desai2))
 
@@ -107,6 +107,7 @@ Recommended:
 - tqdm
 - LPIPS
 - timm
+- pyiqa
 
 The exact package versions used for a final archival reproduction should be pinned to the original experimental environment before publication of a tagged release.
 
