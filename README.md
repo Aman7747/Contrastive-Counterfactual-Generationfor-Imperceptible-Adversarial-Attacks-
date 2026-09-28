@@ -18,7 +18,7 @@ CoCoGen combines four main components:
 1. **Contrastive Counterfactual Guidance (CCG)**  
    The attack minimizes the margin between the true class and the most competitive incorrect class.
 
-2. **Top-$k$ Spatial Projection**  
+2. **Top-k Spatial Projection**  
    Gradient-based attribution identifies the most decision-relevant pixels and restricts the perturbation support to those locations.
 
 3. **High-Frequency Fourier Projection**  
